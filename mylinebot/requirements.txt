@@ -1,0 +1,6 @@
+Flask==2.1.0
+gunicorn==19.9.0
+line-bot-sdk==1.17.0
+Django==3.0.8
+beautifulsoup4==4.11.2
+APScheduler==3.6.1
